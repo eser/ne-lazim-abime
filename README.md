@@ -22,7 +22,7 @@ Voila! İşte ihtiyacınız giderildi, `ne-lazim-abime` işte bu kadar hafif ve 
 
 ## API Dökümanları
 
-Ne Lazım Abime post-modern CSS yaklaşımını yazılım dünyasıyla buluştururken aynı zamanda mevcut tarayıcı API'larına uymaya oldukça özen göstermiştir. Bu noktada da `ne-lazim-abime` geliştiricilerin hayatını kolaylaştırmaktadır. 
+Ne Lazım Abime post-modern CSS yaklaşımını yazılım dünyasıyla buluştururken aynı zamanda mevcut tarayıcı API'larına uymaya oldukça özen göstermiştir. Bu noktada da `ne-lazim-abime` geliştiricilerin hayatını kolaylaştırmaktadır.
 
 ### Türkçe
 
